@@ -1,0 +1,25 @@
+loading indicators 
+اصفر حاجات البوست  بعد كل مرة
+انكح ال async والawait 
+(try,catch)
+وليه فيهم فرق بينهم وبين ال then وال carcherror
+
+Khalas Nak7tohom
+
+improvement the comment section 
+
+جرب كل حاجة لو مش هتعمل hotrestart (من غير متروح لل main)
+
+image in chats
+
+Study comment Screen ui
+
+edit and delete post
+
+reports
+
+Lasr message
+
+Snake messages
+
+صحصحصحصحصححصحصحصحصح
